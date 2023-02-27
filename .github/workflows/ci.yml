@@ -31,5 +31,4 @@ jobs:
         run: |
           echo "your_key=$your_key" >> .env
 
-      - run: yarn install
       - run: yarn build
