@@ -29,7 +29,7 @@
     "@typescript-eslint/eslint-plugin": "^5.53.0",
     "@typescript-eslint/parser": "^5.53.0",
     "airbnb": "^0.0.2",
-    "babel-loader": "^8.2.5",
+    "babel-loader": "^9.0.0",
     "case-sensitive-paths-webpack-plugin": "^2.4.0",
     "clean-webpack-plugin": "^4.0.0",
     "copy-webpack-plugin": "^11.0.0",
